@@ -9,7 +9,7 @@ from playsound import playsound
 
 while True: #to keep the prgram loop
 
-	print ("Recording...") #announve user the begin of rec
+	print ("Recording...") #announce user the begin of rec
 
 	l = sr.Recognizer() #now we perform speech recognition
 
